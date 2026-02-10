@@ -1,0 +1,5 @@
+{
+  "name": "Men’s Skin Performance Decision Engine",
+  "description": "Clinical Decision Support (CDS) system for men's skin performance. Non-diagnostic, rule-based engine with cinematic tactical interface.",
+  "requestFramePermissions": []
+}
